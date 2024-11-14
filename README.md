@@ -1,12 +1,12 @@
 # OSINT-Tools-Tajikistan
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg" alt="Flag of Tajikistan"/>
 
-A list of OSINT tools that may be useful to you when conducting investigations related to Tajikistan. Want to add smth? That's great! Make a pull-request, please or message me on Telegram.
-Unless further clarified, the site or project has main version in Tajik and Russian. To use a part of them you need registration or tax identification number. So for deeper OSINT you have to find a friend in Tajikistan. You never been there? Oh! Then you should [visit Dushanbe](https://www.tripadvisor.com/Attractions-g293964-Activities-Dushanbe.html) or [Khujand](https://www.tripadvisor.com/Attractions-g811256-Activities-Khujand_Sughd_Province.html).
+Here is a list of OSINT tools that may be useful to you when conducting investigations related to Tajikistan. If you want to add something, that's great! Please make a pull request or message me on Telegram.
+Unless further clarified, the site or project has main version in Tajik and Russian. To use a part of them you need a registration or tax identification number. So for deeper OSINT, you have to find a friend in Tajikistan. Have you ever been there? Oh! Then you should [visit Dushanbe](https://www.tripadvisor.com/Attractions-g293964-Activities-Dushanbe.html) or [Khujand](https://www.tripadvisor.com/Attractions-g811256-Activities-Khujand_Sughd_Province.html).
 
-NB: There is a leak of open data in Tajikistan, even for residents. ut some data, that is not avalaible on official Tajik sources you can find in international sources. See the appendix.
+NB: There is a leak of open data in Tajikistan, even for residents. However, some data that is not available on official Tajik sources can be found in international sources. See the appendix.
 
- ## Table of content:
+ ## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral Maps](#maps)
@@ -20,7 +20,7 @@ NB: There is a leak of open data in Tajikistan, even for residents. ut some data
 
 ### Statistics
 - [Statistical Agency under the President of Tajikistan](https://www.stat.tj/ru/)
-- Use my [CSE](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0) to search stats from Tajikistan and some other countries in region. Here you can find some data you won't see in official Tajik sources
+- Use my [CSE](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0) to search stats from Tajikistan and some other countries in the region. Here you can find some data you won't see in official Tajik sources
 
 ### [Customs Service under the Government of Tajikistan](https://tamognia.tj)
 Registers, [statistics](https://tamognia.tj/index.php/2020-10-12-17-53-49/2018-06-14-07-44-16) on exports and imports, foreign trade turnover, laws, regulations, orders, instructions
@@ -65,7 +65,7 @@ By Agency for Public Procurement of Goods, Works and Services under the Governme
 
 ## Appendix
 ### International Data
-As i said some data, that is not avalaible on official Tajik sources you can find in international sources. Here's the list:
+As I said some data, that is not available from official Tajik sources can be found in international sources. Here's some of them:
 - [Tajikistan Procurements on Bicotender](https://www.bicotender.ru/catalog/by-region/tadzhikistan/) 
 
 - [Extracts from the real estate register of Tajikistan (non-free)](https://schmidt-export.ru/выписки-из-иностранных-реестров-недвижимости/таджикистан)
