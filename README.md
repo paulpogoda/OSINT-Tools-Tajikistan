@@ -53,7 +53,7 @@ The Telegram bot was created for Russia, but it contains some databases of Tajik
 ### [Yellow Pages](https://yellowpages.akipress.org) 
 ### [Getcontact](https://getcontact.com) work as well
 ### Try [OSINT Industries](https://app.osint.industries)
-Looks like their database for phone numbers in Central Asia countries is growing up. Non-free. Nice free options for investigators
+Looks like their search for phone numbers in Central Asia countries is growing up. Non-free. Nice free options for investigators
 
 
 ## [Public procurement](https://eprocurement.gov.tj/ru/searchanno)
