@@ -9,12 +9,12 @@ NB: There is a leak of open data in Tajikistan, even for residents. However, som
 ## Contributions
 Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
- ## Table of contents:
+ ## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral Maps](#maps)
  - [Vehicles](#vehicles)
- - [Phones etc.](#phones)
+ - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
  - [WHOIS](#whois)
  - [Important Appendix](#appendix)
@@ -48,7 +48,7 @@ Check vehicle by VIN №
 - [Autoprom.tj](https://autoprom.tj/vin-code)
 - [Koleso.tj](https://koleso.tj/vin/)
 
-## Phones
+## People
 - [Eye of God](https://t.me/yfzxzxqwqbot). 
 The Telegram bot was created for Russia, but it contains some databases of Tajik telecom operators. Also a lot of Tajiks are work in Russia. Non-free. Search bu phone number, name, email etc.
 - [Yellow Pages](https://yellowpages.akipress.org) 
