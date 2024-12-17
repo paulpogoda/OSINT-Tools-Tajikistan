@@ -9,7 +9,7 @@ NB: There is a leak of open data in Tajikistan, even for residents. However, som
 ## Contributions
 Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
- ## Table of content:
+ ## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral and other Maps](#maps)
