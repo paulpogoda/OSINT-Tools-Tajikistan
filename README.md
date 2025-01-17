@@ -7,7 +7,7 @@ Unless further clarified, the site or project has main version in Tajik and Russ
 NB: There is a leak of open data in Tajikistan, even for residents. However, some data that is not available on official Tajik sources can be found in international sources. See the appendix.
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
  ## Table of contents:
  - [Open Data portals](#open-data-portals)
