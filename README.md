@@ -6,6 +6,8 @@ Unless further clarified, the site or project has main version in Tajik and Russ
 
 NB: There is a leak of open data in Tajikistan, even for residents. However, some data that is not available on official Tajik sources can be found in international sources. See the appendix.
 
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-Tajikistan?label=Last%20updated)
+
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
